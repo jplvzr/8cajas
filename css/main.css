@@ -1,1 +1,29 @@
-
+div {
+	width: 100px ;
+	height: 100px;
+	border: solid black 1px;
+	background-color: gray;
+	margin-bottom: 10px;
+}
+.papi {
+	width: 360px;
+	height:120px;
+	display: relative;
+	padding-top: 14px;
+	padding-left:14px;
+}
+.ups {
+	display: inline-block;
+}
+.twins {
+	display: inline-block;
+}
+#mayor {
+	margin-right: 10px;
+}
+#uno {
+	margin-right: 10px;
+}
+#dos {
+	margin-right: 10px;
+}
